@@ -6,9 +6,9 @@ URxvt*secondaryScroll:	true
 URxvt*saveLines:	65535
 URxvt*cursorBlink: 	false
 URxvt*urgentOnBell: 	true
-urxvt*borderLess: 	true
+urxvt*borderLess: 	false
 
-URxvt.font: xft:Ubuntu Mono:pixelsize=20
+URxvt.font: xft:Hack:pixelsize=20
 URxvt.loginShell: true
 URxvt.savelines: 65535
 URxvt.scrollBar_right: true
@@ -34,4 +34,3 @@ URxvt.scrollstyle: plain
 *color13: #d5b8e1
 *color14: #b8e1d5
 *color15: #ffffff
-
