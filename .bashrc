@@ -27,3 +27,4 @@
 
 test -s ~/.alias && . ~/.alias || true
 export APP_SETTINGS='config.DevelopmentConfig'
+export PROMPT_DIRTRIM=1
